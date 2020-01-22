@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+* [Roberto Salgado](mailto:roberto.salgado@owasp.org)
+* [Christophe David](mailto:christophe.david@owasp.org)
