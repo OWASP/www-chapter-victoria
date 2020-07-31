@@ -4,6 +4,9 @@ layout: col-sidebar
 title: OWASP Victoria
 tags: example-tag
 region: 
+meetup-group: OWASP-Victoria-Chapter
+country: Canada
+postal-code: 
 
 ---
 
