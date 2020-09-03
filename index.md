@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Victoria
-tags: example-tag
+#tags: example-tag
 region: 
 meetup-group: OWASP-Victoria-Chapter
 country: Canada
