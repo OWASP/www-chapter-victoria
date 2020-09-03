@@ -1,11 +1,13 @@
 ---
-title: Example
+title: Events
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: events-tag
 ---
 
-## Example
+## Events
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+Please refer to our MeetUp Page for details on all upcoming and past events.
+
+https://www.meetup.com/OWASP-Victoria-Chapter/
