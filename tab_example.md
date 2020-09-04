@@ -1,9 +1,11 @@
 ---
-title: Events
-layout:  null
-tab: true
-order: 1
-tags: events-tag
+layout: col-sidebar
+title: OWASP Victoria
+tags: example-tag
+region: 
+meetup-group: OWASP-Victoria-Chapter
+country: Canada
+postal-code:
 ---
 
 ## Events
