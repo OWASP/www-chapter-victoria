@@ -15,12 +15,12 @@ postal-code:
 </div>
 
 ## Welcome
-Welcome to the OWASP Victoria chapter home page. We are located in the beautiful province of British Columbia, on the West Coast of Canada. We are a local chapter seeking new members. To join please visit 
-[our Meetup](https://www.meetup.com/OWASP-Victoria-Chapter/)
+Welcome to the OWASP Victoria chapter home page. We are located in the beautiful province of British Columbia, on the West Coast of Canada. We are a local chapter seeking new members. To join please visit [our Meetup](https://www.meetup.com/OWASP-Victoria-Chapter/)
 
 <p><img src="/www-chapter-victoria/assets/images/vic.jpg" /></p>
 
 ## Check our Upcoming Meetup Events:
+Visit [our Meetup](https://www.meetup.com/OWASP-Victoria-Chapter/)
 {% include chapter_events.html group=page.meetup-group %}
 
 ## Participation
