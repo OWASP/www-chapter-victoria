@@ -3,5 +3,5 @@
 
 ### Social Links
 * [Meetup](https://www.meetup.com/OWASP-Victoria-Chapter/)
-
-
+* [Twitter](https://twitter.com/owaspvictoria)
+* [YouTube](https://www.youtube.com/channel/UCfjQM5QfGg-YtpEUvVyw_Eg)
